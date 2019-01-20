@@ -2,26 +2,26 @@
 
 This is a repository dedicated to gathering training for climbing information into one useful reference.
 
-##Contents
+## Contents
 
-###General
+### General
 
-###Strength
+### Strength
 
-###Power
+### Power
 
-###Endurance
+### Endurance
 
-###Bouldering
+### Bouldering
 
-###Sport
+### Sport
 
-###Trad
+### Trad
 
-###Alpine
+### Alpine
 
-####Ice
+#### Ice
 
-####Mountaineering
+#### Mountaineering
 
-####Rock
+#### Rock
